@@ -43,7 +43,7 @@ bool explicit_color_diagnostics;
 // Whether -fno-diagnostics-show-caret was given.
 bool explicit_no_show_caret;
 
-#define CLIENT_DEBUG 0
+#define CLIENT_DEBUG 3
 
 inline bool str_equal(const char* a, const char* b)
 {

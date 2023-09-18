@@ -25,6 +25,6 @@
 #define SCHEDULER_H
 
 // Values 0 to 3.
-#define DEBUG_SCHEDULER 0
+#define DEBUG_SCHEDULER 3
 
 #endif
